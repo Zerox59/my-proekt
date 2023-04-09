@@ -1,9 +1,9 @@
-prinnt(Привет!)
-а = Init('все хорошо!')
+print('Привет!')
+а =('все хорошо!')
 for i range (b):
-  b= int(inpt())
+  b = int(input('что-то)
   s.apind(b)
   spicok ()
-  prnt('Привет,",b)  
- for in range('dva')
-  prinnt('azzzza
+  print('Привет,',b)  
+ for q in range(2):
+  print('azzzza')
